@@ -1,6 +1,0 @@
-git rm Lab3
-git add Lab3
-git add .
-git commit -a -m "Work was changed"
-git push
-git status
