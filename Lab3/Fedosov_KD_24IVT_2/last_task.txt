@@ -1,0 +1,11 @@
+﻿git add Lab3/last_task.txt
+git checkout -b branch_for_fix
+git log —oneline
+git reset —hard HEAD~X (X — нужное количество коммитов)
+Исправить ошибки
+git checkout main
+git merge branch_for_fix
+git branch -d branch_for_fix
+git commit -a -m «Fixed»
+git push
+
