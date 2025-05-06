@@ -1,0 +1,6 @@
+git pull
+
+git log
+git revert HEAD HEAD~1
+
+git push origin
