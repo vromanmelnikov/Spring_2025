@@ -1,4 +1,0 @@
-тестовый файл
-new Test
-ещё строчка текста
-local repo change
