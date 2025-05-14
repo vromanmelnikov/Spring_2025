@@ -1,2 +1,3 @@
 test
 new Test
+new Test(github)
