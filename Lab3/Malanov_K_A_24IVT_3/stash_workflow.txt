@@ -1,0 +1,9 @@
+git stash push -m "WIP: Auth middleware"
+
+git checkout hotfix/login
+
+git checkout -
+
+git stash apply
+
+git stash drop
