@@ -1,1 +1,2 @@
 Some new info to be ahead
+go merge conflict!
