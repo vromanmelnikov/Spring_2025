@@ -1,2 +1,0 @@
-new Test
-New string from other local repos

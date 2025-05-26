@@ -1,5 +1,0 @@
-git checkout -b feature/about
-echo "About page" > about.txt
-git add about.txt
-git commit -m "Добавлен файл about.txt с текстом About page"
-git push origin feature/about

@@ -1,4 +1,0 @@
-test
-new Test
-new Test(github)
-Hello, World!

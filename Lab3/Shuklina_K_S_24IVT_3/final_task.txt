@@ -1,5 +1,0 @@
-git checkout -b bugfix
-git add .
-git commit -m "Hotfix: Critical security patch"
-git checkout main
-git merge bugfix
