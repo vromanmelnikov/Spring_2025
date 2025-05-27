@@ -1,3 +1,0 @@
-Some new info to be ahead
-And new info again to see how merge request works
-go merge conflict!
