@@ -1,0 +1,6 @@
+git checkout -b release
+git add -u
+git commit -m "Release: Prepare v1.0.0"
+git tag v1.0.0
+git checkout main
+git merge release
