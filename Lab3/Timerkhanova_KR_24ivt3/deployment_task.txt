@@ -1,0 +1,14 @@
+git checkout main
+git fetch origin
+git status
+
+git checkout -b release/v2.1.0
+
+git add package.json
+
+git commit -m "Release: Bump version to 2.1.0"
+
+git tag v2.1.0 -m "Version v2.1.0"
+
+git push origin release/v2.1.0
+git push origin v2.1.0	
