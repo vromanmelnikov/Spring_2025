@@ -1,0 +1,11 @@
+git checkout main
+
+git checkout -b feature/header
+
+touch header.html
+git add header.html
+git commit -m "Add header.html"
+
+git checkout main
+
+git merge feature/header
