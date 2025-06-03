@@ -6,3 +6,4 @@
 Умирает зайчик мой
 new test
 new
+ggg
