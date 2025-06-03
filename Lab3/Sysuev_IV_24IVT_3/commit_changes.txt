@@ -1,4 +1,10 @@
 Update navigation
+---------------ОТЧЁТ-----------------
+Использованные команды:
+1. git add .
+2. git commit -a -m "Update navigation to commit_changes.txt"
+3. git log -3
+4. git commit --amend -m "an updated commit message"
 Ответы на вопросы:
 1) Как добавить в коммит только часть изменений в файле?
 "git add -p <имя_файла>"
