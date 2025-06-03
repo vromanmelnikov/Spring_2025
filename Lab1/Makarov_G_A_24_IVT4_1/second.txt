@@ -1,7 +1,5 @@
 hello world
-<<<<<<< HEAD
 qwe
 privet
-=======
 123
->>>>>>> 4921d14911834d2076c31e68d521bf71555ee8ed
+
