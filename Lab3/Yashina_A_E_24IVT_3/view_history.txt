@@ -1,0 +1,3 @@
+git log --pretty=oneline -n 3
+git diff a1b2c3d -- app.py
+git log --grep="bug"
