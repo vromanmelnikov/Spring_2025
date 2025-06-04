@@ -1,0 +1,18 @@
+1. последние 5 коммитов в сокращённом формате
+ git log --pretty=oneline -n 5
+ae45f4be38d0dd78e7e5b0e35fad9ecb4d32c740 (HEAD -> main, origin/main, origin/HEAD) Сигаев Вадим 24-ИВТ-3
+80c2912dec195f7b81024772012443572835b848 Сигаев Вадим 24-ИВТ-3
+3036bb38c6732e0419f0f0791692a8db71877268 Сигаев Вадим 24-ИВТ-3
+cfa3031727fdfe537f5c7a940e1b0f055afbda9f Сигаев Вадим 24-ИВТ-3
+30f6ffbb3e5ba8ea8a8e79b8fd5e1298273979c8 Колобов А.Е.
+
+2. изменения в файле README.md за последний месяц
+$ git log --since="1 month ago" -- README.md
+Author: Roman Melnikov <78842633+vromanmelnikov@users.noreply.github.com>
+Date:   Wed May 14 13:13:35 2025 +0300
+
+    Update README.md
+
+3.Найти коммит, где было добавлено слово "Copyright"
+$ git log -S'Copyright' --reverse -p
+C:\Users\liudm\AppData\Local\Temp/git-blob-a12968/<C8><ED><F4><E0>_<EB><E0><E1>2.doc is not a Word Document.
